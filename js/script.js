@@ -127,10 +127,10 @@ $( document ).ready(function() {
          }
      })    
 
-     $('.content_popup_send > p').click(function (){
+     /*$('.content_popup_send > p').click(function (){
          $('#exito').hide()
          return true
-     })
+     })*//
     
     
 
